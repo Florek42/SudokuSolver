@@ -29,6 +29,5 @@ Sudoku Solver is a simple Python program with a graphical interface that allows 
 python sudoku_solver.py
 ```
 
-
 Author:
 "[Forek42]" 
